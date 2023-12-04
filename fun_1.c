@@ -1,4 +1,9 @@
 #include<stdio.h>
+/*
+1. Write a program in C to show the simple structure of a function.
+Expected Output :
+
+The total is :  11 */
 
 int Print(int a , int b )
 {
